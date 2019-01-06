@@ -1,0 +1,14 @@
+{
+    "name": "francesfly/jianbaowebsite",
+    "description": "a project qiye",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "frances",
+            "email": "1934390317@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
