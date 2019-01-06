@@ -1,6 +1,6 @@
 {
     "name": "francesfly/jianbaowebsite",
-    "description": "a project qiye",
+    "description": "a project",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -10,5 +10,11 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+	"repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
 }
